@@ -1,0 +1,11 @@
+controllers:
+    resource:
+        path: ../src/Presentation/Api
+        namespace: App\Presentation\Api
+    type: attribute
+
+dummy_controllers:
+    resource:
+        path: ../src/Presentation/Dummy
+        namespace: App\Presentation\Dummy
+    type: attribute
