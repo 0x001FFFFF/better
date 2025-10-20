@@ -5,11 +5,10 @@
 
 ## Installation
 
-``shell
+```shell
    mdkir -p betterme-test && cd betterme-test
    git clone <repository-url>
-   cd betterme-test
-``
+```
 
 Configure environment variables
 ```shell
